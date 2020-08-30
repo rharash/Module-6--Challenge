@@ -1,6 +1,6 @@
 # Module-6--Challenge
 
-1) The weather becomes warmer as we approach the equator (0 Deg. Latitude). 
+1) The weather becomes warmer as we approach the equator. 
 
 2) The fact that the southern hemisphere tends to be warmer this time of year than the northern hemisphere. This may be due to the tilt of the earth.
 
